@@ -4,6 +4,17 @@ This project is a simplified remote control for an RC Automobile base on the ESP
 
 This project is the control for the automobile in the [rc-automobile-ros](https://www.github.com/SmallBotic/rc-automobile-ros) project.
 
+## Table of Contents
+
+- [Communication Diagram](#communication-diagram)
+- [Setup](#setup)
+
+## Communication Diagram
+
+The following diagram shows the communication between the ROS 2 control node and the Micro-ROS automobile.
+
+![Communication Model](./resource/rosgraph-rc-automobile.png)
+
 ## Setup
 
 For the hardware setup, read the [README.md](https://www.github.com/SmallBotic/rc-automobile-ros/#ros-automobile) file in the [rc-automobile-ros](https://www.github.com/SmallBotic/rc-automobile-ros) project.
